@@ -40,7 +40,7 @@ Here are some ideas to get you started:
   ![ExpressJS Badge](https://img.shields.io/badge/ExpressJS-000000?style=flat-square&logo=express&logoColor=ffffff)
   ![Flask Badge](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=ffffff)
   ![Tensorflow Badge](https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=ffffff)
-
+  <!-- Pinned repos
   <div align="center">
     <a href="https://github.com/randallkk/github-readme-stats">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=randallkk&layout=compact&theme=transparent&hide_border=true&hide=jupyter%20notebook" />
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
       <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=randallkk&range=last_year&layout=compact&theme=transparent&hide_border=true" />
     </a>
   </div>
-  
+  -->
 
 </div>
 
