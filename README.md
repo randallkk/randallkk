@@ -35,7 +35,7 @@ Here are some ideas to get you started:
   ![MariaDB Badge](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=ffffff)
   ![AWS EC2 Badge](https://img.shields.io/badge/AWSEC2-FF9900?style=flat-square&logo=amazonec2&logoColor=ffffff)
   
-  **used at least once:** &nbsp;
+  **experienced:** &nbsp;
   ![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=ffffff)
   ![ExpressJS Badge](https://img.shields.io/badge/ExpressJS-000000?style=flat-square&logo=express&logoColor=ffffff)
   ![Flask Badge](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=ffffff)
